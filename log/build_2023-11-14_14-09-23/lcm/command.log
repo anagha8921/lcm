@@ -1,0 +1,6 @@
+Invoking command in '/home/devuser/AOX/ROS2/src/lcm/build/lcm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/devuser/AOX/ROS2/src/lcm -DCMAKE_INSTALL_PREFIX=/home/devuser/AOX/ROS2/src/lcm/install/lcm
+Invoked command in '/home/devuser/AOX/ROS2/src/lcm/build/lcm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/devuser/AOX/ROS2/src/lcm -DCMAKE_INSTALL_PREFIX=/home/devuser/AOX/ROS2/src/lcm/install/lcm
+Invoking command in '/home/devuser/AOX/ROS2/src/lcm/build/lcm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devuser/AOX/ROS2/src/lcm/build/lcm -- -j8 -l8
+Invoked command in '/home/devuser/AOX/ROS2/src/lcm/build/lcm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devuser/AOX/ROS2/src/lcm/build/lcm -- -j8 -l8
+Invoking command in '/home/devuser/AOX/ROS2/src/lcm/build/lcm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devuser/AOX/ROS2/src/lcm/build/lcm
+Invoked command in '/home/devuser/AOX/ROS2/src/lcm/build/lcm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devuser/AOX/ROS2/src/lcm/build/lcm
